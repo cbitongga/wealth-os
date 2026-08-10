@@ -61,8 +61,11 @@ times consecutively.
 
 Any failure kills the item. Log it to `rejected.md` with the rule it failed.
 
-1. Fits within 6 hrs/week of the owner's time; work for the sisters must be
-   stated in hours and account for their full-time loads
+1. Proposals are NOT limited to the owner 6 hrs/week — two sisters work the
+   business full-time and can execute. But their 80 combined hours are already
+   allocated: every proposal must state whose hours it uses, how many per week,
+   and what those hours currently do instead. The owner 6 hrs/week remains a
+   ceiling only for approvals, legal, financial and technical work
 2. Costs under $2,000 or is explicitly flagged as needing a conversation
 3. Never propose increased marketing spend or lead-generation vendors
 4. Never propose a standard hourly rate above $46 — that is market and above it
